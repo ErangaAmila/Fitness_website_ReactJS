@@ -1,0 +1,41 @@
+
+/*h1*/
+.bmititle{
+    color: rgb(255, 255, 255);
+    background-color: rgb(40, 65, 102);
+    padding: 40px;
+}
+
+/*p*/
+.bmipara{
+    color: rgb(31, 31, 31);
+    font-weight: bold;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+/*h2*/
+.bmitotal{
+    color: crimson;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*input*/
+.bmiinputs{
+    border-radius: 10px;
+    padding: 10px;
+    border-style:solid;
+    border-width: 5px;
+    border-color: rgb(104, 104, 104);
+    font-size: medium;
+    font-weight: bold;
+}
+
+/*div*/
+.bmidiv{
+    background: linear-gradient(to right, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0.5)), url(../images/BMI-BG2.jpg);
+    height: 115vh;
+    background-position:center;
+    background-size: cover;
+}

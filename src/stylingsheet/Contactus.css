@@ -1,0 +1,40 @@
+.Contact{
+    background: linear-gradient(to right, rgba(142, 197, 78, 0),rgb(186, 253, 111,0)), url(../images/Contactus2.jpg);
+    height: 100vh;
+    background-position:center;
+    background-size: cover;
+    
+}
+
+.contacttitle{
+    color: white;
+    background-color: transparent;
+    padding-bottom: 60px;
+    font-size: 70px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.contactdesc{
+    text-align: left;
+    padding-left: 60px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+}
+
+.middlebox{
+    background-color: rgba(233, 75, 47, 0.473);
+    align-content: center;
+    position:fixed;
+    height: 100vh;
+    border-radius: 30px;
+    margin-left: 10%;
+    margin-top: 20%;
+    margin-right: 10%;
+    width: 80%;
+    
+    
+}
